@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "clientNumber": "7202788969",
+    "referenceMonth": "JAN/2023",
+    "energyConsumption": 100,
+    "energyCost": 74.84,
+    "sceeeConsumption": 0,
+    "sceeeCost": 0,
+    "compensatedQuantity": 0,
+    "compensatedEnergy": 0,
+    "publicLightingContribution": 35.92,
+    "createdAt": "2024-05-22T01:45:54.126Z",
+    "updatedAt": "2024-05-22T01:45:54.126Z"
+  },
+  {
+    "id": 2,
+    "clientNumber": "7005400387",
+    "referenceMonth": "JAN/2023",
+    "energyConsumption": 622,
+    "energyCost": 465.66,
+    "sceeeConsumption": 0,
+    "sceeeCost": 0,
+    "compensatedQuantity": 767,
+    "compensatedEnergy": -500.89,
+    "publicLightingContribution": 43.1,
+    "createdAt": "2024-05-22T01:47:52.054Z",
+    "updatedAt": "2024-05-22T01:47:52.054Z"
+  }
+]

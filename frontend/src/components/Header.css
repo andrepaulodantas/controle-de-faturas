@@ -1,0 +1,21 @@
+.app-bar {
+  background-color: #3f51b5;
+}
+
+.title {
+  flex-grow: 1;
+  text-align: center;
+}
+
+.menu-button {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .menu-button {
+    display: block;
+  }
+  .title {
+    display: none;
+  }
+}
